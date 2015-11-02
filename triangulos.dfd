@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+lado1
+5
+1
+5
+lado2
+5
+1
+5
+lado3
+7
+0
+1
+11
+lado1=lado2
+7
+0
+1
+11
+lado1=lado3
+7
+0
+1
+11
+lado2=lado3
+4
+1
+20
+"Triangulo escaleno"
+13
+4
+1
+20
+"triangulo isóceles"
+13
+13
+7
+0
+1
+12
+lado2!=lado3
+13
+4
+1
+20
+"Triangulo isoceles"
+13
+13
+13
+7
+0
+1
+11
+lado2=lado3
+4
+1
+20
+"triangulo isóceles"
+13
+4
+1
+22
+"triangulo equilatero"
+13
+13
+1

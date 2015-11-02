@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+"Ingrese el valor total de la cuenta en pesos"
+5
+1
+5
+total
+6
+2
+15
+multiplicacion 
+8
+total*10
+7
+propina
+18
+multiplicacion/100
+4
+1
+38
+"La propina de la cuenta es",  propina
+1

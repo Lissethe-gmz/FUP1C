@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+"Algoritmo que suma resta multiplique y divida dos numeros"
+4
+1
+19
+"ingrese un numero"
+5
+1
+2
+N1
+4
+1
+22
+"Ingrese otro numero "
+5
+1
+2
+N2
+6
+1
+4
+suma
+5
+N1+N2
+6
+3
+5
+resta
+5
+N1-N2
+8
+division
+5
+N1/N2
+14
+multiplicacion
+5
+N1*N2
+4
+1
+34
+"el resultado de la suma es", suma
+4
+1
+37
+"el resultado de la resta es ", resta
+4
+1
+42
+"el resultado de la division es", division
+4
+1
+54
+"el resultado de la multiplicacion es", multiplicacion
+1

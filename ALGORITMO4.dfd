@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+"Ingrese el valor total de la cuenta en pesos"
+5
+1
+5
+total
+4
+1
+44
+"Ingrese el numero de personas que comieron"
+5
+1
+2
+np
+6
+1
+4
+divc
+8
+total/np
+6
+2
+15
+multiplicacion 
+8
+total*10
+7
+propina
+18
+multiplicacion/100
+6
+1
+4
+divp
+10
+propina/np
+4
+1
+51
+"A cada persona le toca pagar por la comida:", divc
+4
+1
+48
+"A cada persona le toca pagar de propina:", divp
+6
+1
+10
+totalisimo
+9
+divc+divp
+4
+1
+37
+"el total por persona es", totalisimo
+1

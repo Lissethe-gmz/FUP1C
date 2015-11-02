@@ -1,0 +1,104 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+"ingrese el peso de la ropa que desa lavar en kilogramos"
+5
+1
+4
+peso
+7
+0
+1
+8
+peso<=10
+7
+0
+1
+9
+peso<=15 
+7
+0
+1
+8
+peso<=20
+4
+1
+9
+"no lava"
+13
+4
+1
+22
+"nivel máximo de agua"
+13
+13
+4
+1
+15
+"medio de agua"
+13
+13
+4
+1
+16
+"mínimo de agua"
+13
+7
+0
+1
+8
+peso<=20
+13
+4
+1
+103
+"Si su ropa es delicada presione 1. -Si su ropa es normal presione 2. -Si su ropa es sucia presione 3."
+5
+1
+2
+n1
+7
+0
+1
+4
+n1=1
+7
+0
+1
+4
+n1=2
+7
+0
+1
+4
+n1=3
+4
+1
+62
+"solo debe presionar las teclas indicadas  intentelo otra vez"
+13
+4
+1
+12
+"20 minutos"
+13
+13
+4
+1
+12
+"10 minutos"
+13
+13
+4
+1
+11
+"5 minutos"
+13
+13
+1

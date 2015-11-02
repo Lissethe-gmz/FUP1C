@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"ingrese el valor de su cuenta"
+5
+1
+5
+total
+7
+0
+1
+11
+total <1000
+7
+0
+1
+11
+total<=5000
+6
+2
+6
+prop10
+10
+total*0.10
+2
+n3
+12
+prop10+total
+4
+1
+36
+"El valor de su propina es ", prop10
+4
+1
+50
+"EL valor total de su cuenta y la propina es ", n3
+13
+6
+2
+6
+prop16
+10
+total*0.16
+2
+n2
+12
+total+prop16
+4
+1
+36
+"El valor de su propina es ", prop16
+4
+1
+50
+"EL valor total de su cuenta y la propina es ", n2
+13
+13
+6
+2
+6
+prop20
+10
+total*0.20
+2
+n1
+12
+total+prop20
+4
+1
+36
+"El valor de su propina es ", prop20
+4
+1
+50
+"EL valor total de su cuenta y la propina es ", n1
+13
+1

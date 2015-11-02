@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"ingrese el valor en kilometros"
+5
+1
+2
+km
+6
+1
+6
+millas
+10
+km*0.62137
+4
+1
+32
+"el valor en millas es ", millas
+6
+1
+6
+metros
+12
+km/0.0010000
+4
+1
+31
+"el valor en metros es", metros
+6
+1
+4
+pies
+9
+km*3280.8
+4
+1
+27
+"el valor en pies es", pies
+6
+1
+8
+pulgadas
+8
+km*39370
+4
+1
+35
+"el valor en pulgadas es", pulgadas
+6
+1
+11
+centimetros
+9
+km*100000
+4
+1
+41
+"el valor en centimetros es", centimetros
+6
+1
+2
+mm
+10
+km*1000000
+4
+1
+31
+"el valor en milimetros es", mm
+6
+1
+6
+yardas
+9
+km*1093.6
+4
+1
+31
+"el valor en yardas es", yardas
+1
