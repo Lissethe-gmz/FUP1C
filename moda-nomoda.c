@@ -2,8 +2,9 @@
 #include<stdlib.h>
 
 int arreglo[10];
-int i,suma,moda,grande;
+int i,suma,moda,mayor,bandera;
 float promedio;
+int posibles[11];
 
 int main ( )
 {
@@ -16,16 +17,38 @@ int main ( )
 	}
 	promedio=(float)suma/10;
 	printf("El resultado de su promedio es: %.1f\n",promedio);
-	
-	for ( i= 0; i < 10; i++ ) 
+
+	for(i=0;i<11;i++)
 	{
-		if ( arreglo[i] > grande ) 
+		posibles[i]=0;
+	}
+	for(i=0;i<10;i++)
+	{
+		posibles[arreglo[i]]++;
+	}
+	moda=0;
+	mayor=posibles[0];
+	for(i=1;i<11;i++)
+	{
+				if(posibles[i] == mayor)
+	{
+		bandera=1;
+	}
+		if(posibles[i]>mayor)
 		{
-		grande = arreglo[i];
-		moda = i;
+			mayor=posibles[i];
+			moda= i;
+			bandera=0;
 		}
 	}
-	printf("La moda es: %d\n", moda);
+	if(bandera ==0 )
+	{
+		printf("La moda es %d\n", moda);
+	}
+	else
+	{
+		printf("No hay moda\n");
+	}
 
 system("pause");
 	
